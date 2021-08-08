@@ -6,7 +6,7 @@ namespace ReverseInNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter Numbers to reverse");
+            Console.WriteLine("Enter Numbers to reverse and test");
             int Num = int.Parse(Console.ReadLine());
             int Rev = 0;
 
